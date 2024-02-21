@@ -25,11 +25,10 @@ const handleRefreshToken = (req, res) => {
                 process.env.ACCESS_TOKEN_SECRET,
                 { expiresIn: '50s'}
             )
-            res.json({accessToken})
+            res.json({ accessToken })
         }
 
     )
 }
-
 
 module.exports = { handleRefreshToken }
