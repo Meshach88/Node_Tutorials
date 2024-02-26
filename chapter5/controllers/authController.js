@@ -5,7 +5,7 @@ const usersDB = {
 const bcrypt = require('bcryptjs')
 
 const jwt = require('jsonwebtoken')
-require('dotenv').config()
+// require('dotenv').config()
 const fsPromises = require('fs').promises
 const path = require('path')
 

@@ -3,7 +3,7 @@ const usersDB = {
     setUsers: function (data) { this.users = data }
 }
 const jwt = require('jsonwebtoken')
-require('dotenv').config()
+// require('dotenv').config()
 
 
 const handleRefreshToken = (req, res) => {
