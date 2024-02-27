@@ -89,3 +89,6 @@
 20240221	07:46:00	f37f88f0-85a8-488d-ae8f-abffd56b7778	GET	undefined	/employees
 20240221	07:46:16	0bae7fa8-f88c-4628-9af3-1c796433e21d	GET	undefined	/employees
 20240221	07:46:38	3d9d743d-0273-4a8b-bbf0-ed763341642d	POST	undefined	/employees
+20240226	17:20:49	e57cffc0-8def-470b-9b50-ad9707904f17	POST	undefined	/register
+20240226	17:44:12	d7cf3d9f-c4c2-42b3-9b0d-c8f276bca2a7	POST	undefined	/register
+20240226	17:44:29	4be8a796-1309-45ed-b477-e21c16f19056	POST	undefined	/register
